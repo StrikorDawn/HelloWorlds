@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Programming Projects\\HelloWorlds\\HelloC#\\HelloC#.csproj": {}
+    "C:\\Programming Projects\\HelloWorlds\\HelloC#\\HelloC#.csproj": {}
   },
   "projects": {
-    "c:\\Programming Projects\\HelloWorlds\\HelloC#\\HelloC#.csproj": {
+    "C:\\Programming Projects\\HelloWorlds\\HelloC#\\HelloC#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Programming Projects\\HelloWorlds\\HelloC#\\HelloC#.csproj",
+        "projectUniqueName": "C:\\Programming Projects\\HelloWorlds\\HelloC#\\HelloC#.csproj",
         "projectName": "HelloC#",
-        "projectPath": "c:\\Programming Projects\\HelloWorlds\\HelloC#\\HelloC#.csproj",
+        "projectPath": "C:\\Programming Projects\\HelloWorlds\\HelloC#\\HelloC#.csproj",
         "packagesPath": "C:\\Users\\Taden\\.nuget\\packages\\",
-        "outputPath": "c:\\Programming Projects\\HelloWorlds\\HelloC#\\obj\\",
+        "outputPath": "C:\\Programming Projects\\HelloWorlds\\HelloC#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Taden\\AppData\\Roaming\\NuGet\\NuGet.Config"
