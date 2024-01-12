@@ -12,3 +12,4 @@ c:\Programming Projects\HelloWorlds\HelloC#\obj\Debug\net8.0\refint\HelloC#.dll
 c:\Programming Projects\HelloWorlds\HelloC#\obj\Debug\net8.0\HelloC#.pdb
 c:\Programming Projects\HelloWorlds\HelloC#\obj\Debug\net8.0\HelloC#.genruntimeconfig.cache
 c:\Programming Projects\HelloWorlds\HelloC#\obj\Debug\net8.0\ref\HelloC#.dll
+C:\Programming Projects\HelloWorlds\HelloC#\obj\Debug\net8.0\HelloC#.sourcelink.json
