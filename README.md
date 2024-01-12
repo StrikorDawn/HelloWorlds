@@ -10,8 +10,10 @@ The purpose of this Repository is to house the first lines of code I have writen
 
 I used VSC as my IDE for these projects
 
-The languages contained in this repo are
+The languages contained in this repo are found below as well as thier file locations.
 
-Python 3.0 which can be found at `HelloPython.py`
-C# with .Net 8 `HelloC#`
-Java `HelloJava`
+`Python`: HelloPython.py
+
+`C#`: HelloC#
+
+`Java`: HelloJava
