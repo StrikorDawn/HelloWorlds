@@ -17,3 +17,12 @@ The languages contained in this repo are found below as well as thier file locat
 `C#`: HelloC#
 
 `Java`: HelloJava
+
+# Useful Websites
+https://www.python.org/downloads/
+
+https://code.visualstudio.com/Download
+
+https://www.oracle.com/java/technologies/downloads/#java8
+
+https://dotnet.microsoft.com/en-us/download
